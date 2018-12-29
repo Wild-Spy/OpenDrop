@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "NichDrop", "NichDrop\NichDrop.avrgccproj", "{C58879C3-319D-41DD-BB31-4078DEC289E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58879C3-319D-41DD-BB31-4078DEC289E3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C58879C3-319D-41DD-BB31-4078DEC289E3}.Debug|AVR.Build.0 = Debug|AVR
+		{C58879C3-319D-41DD-BB31-4078DEC289E3}.Release|AVR.ActiveCfg = Release|AVR
+		{C58879C3-319D-41DD-BB31-4078DEC289E3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

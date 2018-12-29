@@ -1,0 +1,40 @@
+NichDrop Changelog
+Created: 24/10/2011
+Updated: 24/10/2011
+Author: Matthew Cochrane
+Company: Wild Spy
+
+Version: V1.1.1
+	- Code Finished: 24/10/2011
+	- Workshop Implementation Date: ??/??/2011?
+	- Firmware: RFNichDrop_V1.1.0.hex
+	- EEPROM:	NichDrop_NORF__EEPROM.eeprom (raw)
+	- Fuses: H-0xD7, L-0xE2, E-0xF9
+	
+	Description:
+	- Made many changes, see changes for details.
+	
+	Changes:
+	- New serial comms.  No longer text based.  New Windows GUI.
+	- Moved to AVRStudio 5 IDE
+	- Fixed bug in AddTimes, function now works with year rollover
+
+--------------------------------------------------------------------------------------------------------------------
+	
+Version: V1.0.0
+	- Code Finished: ??/??/2010
+	- Workshop Implementation Date: ??/??/2010
+	- Firmware: RFNichDrop_V1.0.0.hex
+	- EEPROM:	NichDrop_NORF__EEPROM.eeprom (raw)
+	- Fuses: H-0xDF, L-0xE2, E-0xF9
+	
+	Description:
+	- Original code version (documented after the fact)
+	- Regular Serial comms (text based)
+	- There is a bug in this code in the function AddTimes in M_RTC.c
+	- Written in Eclipse IDE
+	- Relies on LiPo battery and does not use charge pump
+	- Should work with V1 or V2 of the board
+
+--------------------------------------------------------------------------------------------------------------------
+	

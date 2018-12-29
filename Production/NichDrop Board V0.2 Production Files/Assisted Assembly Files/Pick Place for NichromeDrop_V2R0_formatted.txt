@@ -1,0 +1,24 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R6         RES0603             263.525mm      30.099mm     263.525mm      30.099mm     263.525mm      30.999mm  B        270.00 Res1           
+C1         CAP0603              278.13mm      40.386mm      278.13mm      40.386mm     277.255mm      40.386mm  T        360.00 Cap            
+C2         CAP0805             274.955mm       34.29mm     274.955mm       34.29mm      275.93mm       34.29mm  T        180.00 Cap Pol1       
+C3         CAP0603             278.384mm      35.052mm     278.384mm      35.052mm     278.384mm      34.177mm  B         90.00 Cap            
+C4         CAP0603             278.384mm      38.608mm     278.384mm      38.608mm     278.384mm      39.483mm  B        270.00 Cap            
+C5         CAP0603              264.16mm      34.798mm      264.16mm      34.798mm     263.285mm      34.798mm  B        360.00 Cap            
+C6         CAP0603             265.176mm      37.338mm     265.176mm      37.338mm     265.176mm      36.463mm  T         90.00 Cap            
+C7         CAP0603             266.192mm      29.845mm     266.192mm      29.845mm     267.067mm      29.845mm  B        180.00 Cap            
+C8         CAP0603             265.176mm        38.1mm     265.176mm        38.1mm     265.176mm      38.975mm  B        270.00 Cap            
+D1         CAP0805             270.002mm      29.464mm     270.002mm      29.464mm     269.027mm      29.464mm  B        360.00 Diode          
+LED        CAP0805             277.876mm      42.672mm     277.876mm      42.672mm     278.851mm      42.672mm  T        180.00 LED2           
+NICHROME   HDR1X2              274.066mm      29.972mm     275.336mm      29.972mm     275.336mm      29.972mm  T        180.00 Header 2       
+PROG       HDR1X6              260.604mm      36.322mm     260.604mm      42.672mm     260.604mm      42.672mm  T        270.00 Header 6       
+Q3         SOT223              266.573mm      32.004mm     266.573mm      32.004mm     269.473mm      29.704mm  T        180.00 MOSFET-N       
+R1         1206CAT16-4         278.347mm      37.789mm     277.622mm      38.989mm     277.622mm      38.989mm  T          0.00 Res Pack4      
+R2         RES0603             273.939mm      42.672mm     273.939mm      42.672mm     273.039mm      42.672mm  T          0.00 Res1           
+U1         S08                  270.51mm      38.481mm      270.51mm      38.481mm      267.91mm      40.386mm  T         90.00 M41T81         
+U2         32A_N               271.526mm      36.703mm     271.526mm      36.703mm     275.726mm      39.503mm  B        180.00 ATMEGA168PV    
+UART       HDR1X2              264.922mm      42.672mm     263.652mm      42.672mm     263.652mm      42.672mm  T        360.00 Header 2       
+Y1         XTAL_RTC_TH         263.144mm      40.132mm     263.144mm      40.132mm     263.644mm      40.132mm  T        180.00 XTAL           
+BAT        BAT-2               278.384mm      31.242mm     278.384mm      31.242mm     278.384mm      29.972mm  T         90.00 CR2            
+
