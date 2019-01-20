@@ -97,7 +97,7 @@ int main(void) {
 
 		if (ValidDateTime(&mTime2) && FirstTimeGreater(&mTime2,&mTime1) && !(FirstTimeGreater(&mTime2, &mTime3))) {
 			//TODO[x]:  If the RTC time is set to some random garbage date on reset that happens to be valid
-			//			and also after the last wakeup, we're fucked..  Check to see that the RTC time is no
+			//			and also after the last wakeup, we're in trouble.  Check to see that the RTC time is no
 			//			more than one day after the last wakeup time (as it shouldn't be).
 			//RTC Time is valid, after the last wakeup time but not by more than one day.
 			//Leave the RTC time as is and set the last wakeup time to now.
