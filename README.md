@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/163469663.svg)](https://zenodo.org/badge/latestdoi/163469663)
+
 # OpenDrop
 OpenDrop is an open source, low cost drop-off unit for animal-borne devices. Provided herein is code for device firmware and programming software (Windows binaries available under [Releases](https://github.com/Wild-Spy/OpenDrop/releases)). Additionally, Gerber files for PCB fabrication and CAD files for a small/medium mammal housing mould master are included.
 
