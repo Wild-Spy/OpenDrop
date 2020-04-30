@@ -11,7 +11,7 @@ Programming software is written in Visual Basic and requires the Microsoft Visua
 ## Further Information
 A more detailed overview of OpenDrop and its use in wildlife biology is covered in: 
 
-Rafiq, K., Appleby, R.G., Edgar, J.P., Jordan, N.R., Dexter, C.E., Jones, D.N., Blacker, A.R.F., and Cochrane, M. 2019. *OpenDrop: an open-source, low-cost drop-off unit for animal borne devices*. Manuscript submitted for publication.
+Rafiq, K., Appleby, R.G., Edgar, J.P., Jordan, N.R., Dexter, C.E., Jones, D.N., Blacker, A.R.F., and Cochrane, M. 2019, 'OpenDrop: An open-source, low-cost drop-off unit for animal borne devices', *Methods in Ecology and Evolution*, **10**, pp. 1517– 1522. https://doi.org/10.1111/2041-210X.13231
 
 ## License
 This project is licensed under the terms of the GNU General Public License v3.0. See [LICENSE](LICENSE) for details.
