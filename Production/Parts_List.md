@@ -7,7 +7,7 @@
 | C2             | Front     | 805      | Cap         | 47uF      | No      |
 | C6             | Front     | 603      | Cap         | 0.1uF     | No      |
 | R2             | Front     | 603      | Resistor    | 1kOhm     | No      |
-| LED            | Front     | 805      | Led         | Red       | Yes     |
+| LED            | Front     | 805      | LED         | Red       | Yes     |
 | Y1             | Front     | Can      | Xtal        | 32768Hz   | No      |
 |                |           |          |             |           |         |
 | U2             | Back      | ----     | ATMEGA168PV | ----      | Yes     |
